@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(11, 63, 174);
+    text-align: center;
+}
+
+div {
+    margin-top: 200px;
+    width: 300px;
+    margin-left: 40%;
+    background-color: rgb(43, 174, 163);
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+input{
+
+}
